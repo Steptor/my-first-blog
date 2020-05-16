@@ -1,0 +1,70 @@
+.purple-color {
+color:#8845f4;
+
+}
+
+body {
+font-family: sans-serif;
+color: #777777;
+line-height: 26px ;
+
+}
+
+.half-width{
+width: ;
+display: relative;
+}
+
+.side-img{
+width: 50%;
+padding-left: 25%;
+}
+
+.primary-btn{
+color: white;
+background-color: #8845f4;
+padding: 13px 40px 13px 40px;
+border-radius: 20px;
+text-decoration: none;
+}
+
+h1 {
+font-size:24px;
+ }
+ 
+ h1,h3{
+ text-align:center;
+ }
+ 
+ .container{
+ padding: 5px;
+ dispay: inline-block;
+ }
+ 
+ .experience-1{
+ text-align: center;
+ color: orange;
+ text-decoration: underline;
+ }
+ .experiences{
+ padding: 20px;
+ margin: 5px;
+ background-color: rgb(238,251,255);
+ border-radius:20px;
+ 
+ }
+ 
+ .experience-items{
+ padding: 10px;
+ border-left: 1px solid rgba(137,130,247,.2);
+ }
+ 
+ .purple-color{
+ color:purple;
+ }
+ 
+ .copyright{
+ corol:red;
+ }
+ 
+ 
